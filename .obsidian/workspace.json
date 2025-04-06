@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Pointers.md",
+                "file": "001. Two Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Pointers"
+              "title": "001. Two Sum"
             }
           },
           {
@@ -69,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -192,11 +193,11 @@
   },
   "active": "8f64de16c3f75af0",
   "lastOpenFiles": [
+    "-Pointers.md",
     "- Sliding Window.md",
     "- Binary Search.md",
     "567. Permutation in String.md",
     "125. Valid Palindrome.md",
-    "-Pointers.md",
     "Python Dictionaries.md",
     "004. Median of Two Sorted Arrays.md",
     "- Medium Level.md",
