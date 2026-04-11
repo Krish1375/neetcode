@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Longest Substring Without Repeating Characters.md",
+                "file": "1. Two Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Longest Substring Without Repeating Characters"
+              "title": "1. Two Sum"
             }
           }
         ],
@@ -198,14 +198,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "cff6c85a247b849d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,13 +226,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-day-planner:Timeline": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ae2977dbd171dd3f",
   "lastOpenFiles": [
-    "200. Number of Islands.md",
+    "074. Search a 2D Matrix.md",
+    "1. Two Sum.md",
+    "049. Group Anagrams.md",
+    "042. Trapping Rain Water.md",
+    "036. Valid Sudoku.md",
+    "033. Search in Rotated Sorted Array.md",
+    "022. Generate Parentheses.md",
+    "020. Valid Parentheses.md",
+    "015. 3Sum.md",
+    "011. Container With Most Water.md",
+    "004. Median of Two Sorted Arrays.md",
+    "001. Two Sum.md",
     "3. Longest Substring Without Repeating Characters.md",
+    "084. Largest Rectangle in Histogram.md",
+    "200. Number of Islands.md",
     "359. Logger Rate Limiter.md",
     "Python Dictionaries.md",
     "981. Time Based Key-Value Store.md",
@@ -236,19 +259,6 @@
     "33. Search in Rotated Sorted Array.md",
     "22. Generate Parentheses.md",
     "20. Valid Parentheses.md",
-    "1. Two Sum.md",
-    "4. Median of Two Sorted Arrays.md",
-    "15. 3Sum.md",
-    "11. Container With Most Water.md",
-    "49. Group Anagrams.md",
-    "72. Edit Distance.md",
-    "43. Multiply Strings.md",
-    "62. Unique Paths.md",
-    "383. Ransom Note.md",
-    "- Counting.md",
-    "659. Encode and Decode Strings.md",
-    "238. Product of Array Except Self.md",
-    "141. Linked List Cycle.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled",
