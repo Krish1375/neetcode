@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "b5ac4643b9c15052",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c8e96607b483d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db811c84a421e903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "62. Unique Paths.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "62. Unique Paths"
+            }
+          },
+          {
+            "id": "123ea2bb906be52d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "43. Multiply Strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "43. Multiply Strings"
+            }
+          },
+          {
+            "id": "d124f04c62569713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Dictionaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Dictionaries"
+            }
+          },
+          {
+            "id": "3cdea835362665a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200. Number of Islands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "200. Number of Islands"
+            }
+          },
+          {
+            "id": "47a7d198e1804062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Longest Substring Without Repeating Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Longest Substring Without Repeating Characters"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "504e035b9f2b549b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b7917589ecad97e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae2977dbd171dd3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5949aff894d83638",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3874bfee54ac0a52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5086555480957
+  },
+  "right": {
+    "id": "8de023a279abcc0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba76b974f3bbe2b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00fdd58efd06de42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0af25a6938fc0257",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "deb9471a6a085405",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db7a877048541353",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ae2977dbd171dd3f",
+  "lastOpenFiles": [
+    "200. Number of Islands.md",
+    "3. Longest Substring Without Repeating Characters.md",
+    "359. Logger Rate Limiter.md",
+    "Python Dictionaries.md",
+    "981. Time Based Key-Value Store.md",
+    "Pasted image 20240311113718.png",
+    "53. Maximum Subarray.md",
+    "84. Largest Rectangle in Histogram.md",
+    "74. Search a 2D Matrix.md",
+    "36. Valid Sudoku.md",
+    "42. Trapping Rain Water.md",
+    "33. Search in Rotated Sorted Array.md",
+    "22. Generate Parentheses.md",
+    "20. Valid Parentheses.md",
+    "1. Two Sum.md",
+    "4. Median of Two Sorted Arrays.md",
+    "15. 3Sum.md",
+    "11. Container With Most Water.md",
+    "49. Group Anagrams.md",
+    "72. Edit Distance.md",
+    "43. Multiply Strings.md",
+    "62. Unique Paths.md",
+    "383. Ransom Note.md",
+    "- Counting.md",
+    "659. Encode and Decode Strings.md",
+    "238. Product of Array Except Self.md",
+    "141. Linked List Cycle.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled",
+    "neetcode",
+    "Untitled.canvas"
+  ]
+}
