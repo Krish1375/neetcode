@@ -151,9 +151,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c721591f792fe806",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -173,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caa566d20992f9d0",
+  "active": "c721591f792fe806",
   "lastOpenFiles": [
     "3. Longest Substring Without Repeating Characters.md",
     "4. Median of Two Sorted Arrays.md",
