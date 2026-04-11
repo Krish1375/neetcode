@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Two Sum.md",
+                "file": "15. 3Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Two Sum"
+              "title": "15. 3Sum"
             }
           }
         ]
@@ -183,14 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c721591f792fe806",
+  "active": "caa566d20992f9d0",
   "lastOpenFiles": [
-    "3. Longest Substring Without Repeating Characters.md",
-    "4. Median of Two Sorted Arrays.md",
-    "6. Zigzag Conversion.md",
     "11. Container With Most Water.md",
-    "22. Generate Parentheses.md",
+    "6. Zigzag Conversion.md",
+    "4. Median of Two Sorted Arrays.md",
+    "3. Longest Substring Without Repeating Characters.md",
     "1. Two Sum.md",
+    "15. 3Sum.md",
+    "22. Generate Parentheses.md",
     "62. Unique Paths.md",
     "43. Multiply Strings.md",
     "Python Dictionaries.md",
@@ -211,7 +212,6 @@
     "001. Two Sum.md",
     "084. Largest Rectangle in Histogram.md",
     "359. Logger Rate Limiter.md",
-    "981. Time Based Key-Value Store.md",
     "Pasted image 20240311113718.png",
     "Untitled.base",
     "Untitled 1.base",
