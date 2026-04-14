@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "- Pointers"
             }
+          },
+          {
+            "id": "602e8d508cd5bf35",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,11 +237,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e33f19363f6dcd10",
+  "active": "602e8d508cd5bf35",
   "lastOpenFiles": [
+    "543. Diameter of Binary Tree.md",
+    "104. Maximum Depth of Binary Tree.md",
+    "- Pointers.md",
     "236. Lowest Common Ancestor of a Binary Tree.md",
     "111. Minimum Depth of Binary Tree.md",
-    "104. Maximum Depth of Binary Tree.md",
     "226. Invert Binary Tree.md",
     "15. 3Sum.md",
     "11. Container With Most Water.md",
@@ -253,8 +266,6 @@
     "022. Generate Parentheses.md",
     "020. Valid Parentheses.md",
     "015. 3Sum.md",
-    "011. Container With Most Water.md",
-    "004. Median of Two Sorted Arrays.md",
     "Pasted image 20240311113718.png",
     "Untitled.base",
     "Untitled 1.base",
