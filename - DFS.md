@@ -1,5 +1,5 @@
 ```dataview
 TABLE
-FROM #heaps
+FROM #dfs  
 SORT file.name Asc
 ```
