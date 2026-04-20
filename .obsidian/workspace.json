@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- DFS.md",
+                "file": "55. Jump Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- DFS"
+              "title": "55. Jump Game"
             }
           }
         ],
@@ -254,10 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cff6c85a247b849d",
+  "active": "2536c1e8102be4c2",
   "lastOpenFiles": [
-    "1448. Count Good Nodes in Binary Tree.md",
+    "70. Climbing Stairs.md",
     "- DFS.md",
+    "1448. Count Good Nodes in Binary Tree.md",
     "- Binary Tree.md",
     "- Tree.md",
     "- Heaps.md",
@@ -281,7 +282,6 @@
     "15. 3Sum.md",
     "6. Zigzag Conversion.md",
     "4. Median of Two Sorted Arrays.md",
-    "3. Longest Substring Without Repeating Characters.md",
     "README",
     "Pasted image 20240311113718.png",
     "Untitled.base",
