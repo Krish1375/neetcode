@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cff6c85a247b849d",
+  "active": "46740ce04ca4598c",
   "lastOpenFiles": [
+    "199. Binary Tree Right Side View.md",
     "236. Lowest Common Ancestor of a Binary Tree.md",
     "40. Combination Sum II.md",
     "39. Combination Sum.md",
@@ -204,7 +205,6 @@
     "- Pointers.md",
     "- Python.md",
     "100. Same Tree.md",
-    "199. Binary Tree Right Side View.md",
     "11. Container With Most Water.md",
     "1. Two Sum.md",
     "README",
