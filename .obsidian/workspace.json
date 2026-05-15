@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0043. Multiply Strings.md",
+                "file": "0100. Same Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0043. Multiply Strings"
+              "title": "0100. Same Tree"
             }
           }
         ]
@@ -185,6 +185,21 @@
   },
   "active": "cff6c85a247b849d",
   "lastOpenFiles": [
+    "0084. Largest Rectangle in Histogram.md",
+    "0078. Subsets.md",
+    "0074. Search a 2D Matrix.md",
+    "125. Valid Palindrome.md",
+    "0072. Edit Distance.md",
+    "0070. Climbing Stairs.md",
+    "0062. Unique Paths.md",
+    "0055. Jump Game.md",
+    "0054. Spiral Matrix.md",
+    "0053. Maximum Subarray.md",
+    "0050. Pow(x, n).md",
+    "0049. Group Anagrams.md",
+    "0048. Rotate Image.md",
+    "0046. Permutations.md",
+    "0043. Multiply Strings.md",
     "0042. Trapping Rain Water.md",
     "0040. Combination Sum II.md",
     "0039. Combination Sum.md",
@@ -196,21 +211,6 @@
     "0015. 3Sum.md",
     "0011. Container With Most Water.md",
     "0006. Zigzag Conversion.md",
-    "0004. Median of Two Sorted Arrays.md",
-    "0003. Longest Substring Without Repeating Characters.md",
-    "0001. Two Sum.md",
-    "199. Binary Tree Right Side View.md",
-    "236. Lowest Common Ancestor of a Binary Tree.md",
-    "78. Subsets.md",
-    "105. Construct Binary Tree from Preorder and Inorder Traversal.md",
-    "230. Kth Smallest Element in a BST.md",
-    "46. Permutations.md",
-    "53. Maximum Subarray.md",
-    "55. Jump Game.md",
-    "70. Climbing Stairs.md",
-    "- DFS.md",
-    "1448. Count Good Nodes in Binary Tree.md",
-    "- Binary Tree.md",
     "README",
     "Pasted image 20240311113718.png",
     "Untitled.base",
