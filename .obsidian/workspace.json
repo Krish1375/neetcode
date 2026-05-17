@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0347. Top K Frequent Elements.md",
+                "file": "0226. Invert Binary Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0347. Top K Frequent Elements"
+              "title": "0226. Invert Binary Tree"
             }
           }
         ]
@@ -185,6 +185,16 @@
   },
   "active": "cff6c85a247b849d",
   "lastOpenFiles": [
+    "0230. Kth Smallest Element in a BST.md",
+    "0231. Power of Two.md",
+    "0232. Implement Queue using Stacks.md",
+    "0238. Product of Array Except Self.md",
+    "0236. Lowest Common Ancestor of a Binary Tree.md",
+    "0242. Valid Anagram.md",
+    "0268. Missing Number.md",
+    "0322. Coin Change.md",
+    "0338. Counting Bits.md",
+    "0347. Top K Frequent Elements.md",
     "0359. Logger Rate Limiter.md",
     "0383. Ransom Note.md",
     "0448. Find All Numbers Disappeared in an Array.md",
@@ -201,16 +211,6 @@
     "0981. Time Based Key-Value Store.md",
     "0100. Same Tree.md",
     "0084. Largest Rectangle in Histogram.md",
-    "0078. Subsets.md",
-    "0074. Search a 2D Matrix.md",
-    "125. Valid Palindrome.md",
-    "0072. Edit Distance.md",
-    "0070. Climbing Stairs.md",
-    "0062. Unique Paths.md",
-    "0055. Jump Game.md",
-    "0054. Spiral Matrix.md",
-    "0053. Maximum Subarray.md",
-    "0050. Pow(x, n).md",
     "README",
     "Pasted image 20240311113718.png",
     "Untitled.base",
