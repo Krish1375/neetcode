@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0226. Invert Binary Tree.md",
+                "file": "0136. Single Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0226. Invert Binary Tree"
+              "title": "0136. Single Number"
             }
           }
         ]
@@ -185,6 +185,19 @@
   },
   "active": "cff6c85a247b849d",
   "lastOpenFiles": [
+    "0141. Linked List Cycle.md",
+    "0150. Evaluate Reverse Polish Notation.md",
+    "0153. Find Minimum in Rotated Sorted Arrays.md",
+    "0155. Min Stack.md",
+    "0167. Two Sum II - Input Array Is Sorted.md",
+    "0168. Excel Sheet Column Title.md",
+    "0198. House Robber.md",
+    "0199. Binary Tree Right Side View.md",
+    "0200. Number of Islands.md",
+    "0209. Minimum Size Subarray Sum.md",
+    "0217. Contains Duplicate.md",
+    "0219. Contains Duplicate II.md",
+    "0226. Invert Binary Tree.md",
     "0230. Kth Smallest Element in a BST.md",
     "0231. Power of Two.md",
     "0232. Implement Queue using Stacks.md",
@@ -198,19 +211,6 @@
     "0359. Logger Rate Limiter.md",
     "0383. Ransom Note.md",
     "0448. Find All Numbers Disappeared in an Array.md",
-    "0496. Next Greater Element I.md",
-    "0543. Diameter of Binary Tree.md",
-    "0567. Permutation in String.md",
-    "0659. Encode and Decode Strings.md",
-    "0704. Binary Search.md",
-    "0739. Daily Temperatures.md",
-    "0845. Longest Mountain in Array.md",
-    "0853. Car Fleet.md",
-    "0875. Koko Eating Bananas.md",
-    "0977. Squares of a Sorted Array.md",
-    "0981. Time Based Key-Value Store.md",
-    "0100. Same Tree.md",
-    "0084. Largest Rectangle in Histogram.md",
     "README",
     "Pasted image 20240311113718.png",
     "Untitled.base",
