@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "- Dynamic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "- Dynamic"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "46740ce04ca4598c",
   "lastOpenFiles": [
+    "- DFS.md",
+    "- Dynamic.md",
+    "README.md",
     "0977. Squares of a Sorted Array.md",
     "Python Dictionaries.md",
     "Pasted image 20240311113718.png",
@@ -209,9 +212,6 @@
     "0022. Generate Parentheses.md",
     "0011. Container With Most Water.md",
     "0006. Zigzag Conversion.md",
-    "0004. Median of Two Sorted Arrays.md",
-    "0003. Longest Substring Without Repeating Characters.md",
-    "0001. Two Sum.md",
     "README",
     "Untitled.base",
     "Untitled 1.base",
