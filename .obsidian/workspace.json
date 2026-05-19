@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0199. Binary Tree Right Side View.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0199. Binary Tree Right Side View"
+              "title": "README"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "46740ce04ca4598c",
   "lastOpenFiles": [
-    "0200. Number of Islands.md",
+    "0977. Squares of a Sorted Array.md",
+    "Python Dictionaries.md",
+    "Pasted image 20240311113718.png",
+    "1143. Longest Common Subsequence.md",
+    "0338. Counting Bits.md",
     "0209. Minimum Size Subarray Sum.md",
+    "0226. Invert Binary Tree.md",
+    "0231. Power of Two.md",
+    "0199. Binary Tree Right Side View.md",
+    "0200. Number of Islands.md",
     "0217. Contains Duplicate.md",
     "0153. Find Minimum in Rotated Sorted Arrays.md",
     "0155. Min Stack.md",
@@ -204,15 +212,7 @@
     "0004. Median of Two Sorted Arrays.md",
     "0003. Longest Substring Without Repeating Characters.md",
     "0001. Two Sum.md",
-    "- Arrays and Hashing.md",
-    "0845. Longest Mountain in Array.md",
-    "- Medium Level.md",
-    "0102. Binary Tree Level Order Traversal.md",
-    "0111. Minimum Depth of Binary Tree.md",
-    "0125. Valid Palindrome.md",
-    "0128. Longest Consecutive Sequence.md",
     "README",
-    "Pasted image 20240311113718.png",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled",
