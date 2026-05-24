@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- Queue.md",
+                "file": "1143. Longest Common Subsequence.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- Queue"
+              "title": "1143. Longest Common Subsequence"
             }
           }
         ]
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +186,18 @@
   },
   "active": "46740ce04ca4598c",
   "lastOpenFiles": [
-    "- Recursion.md",
+    "0981. Time Based Key-Value Store.md",
+    "- Binary Search.md",
+    "- DFS.md",
     "- Sliding Window.md",
+    "- Queue.md",
+    "- Easy Level.md",
+    "- Hard Level.md",
+    "- Binary Tree.md",
+    "- Medium Level.md",
+    "0074. Search a 2D Matrix.md",
+    "0053. Maximum Subarray.md",
+    "- Recursion.md",
     "- Sorting.md",
     "- Stack.md",
     "- Bucket Sort.md",
@@ -194,23 +205,13 @@
     "- Tree.md",
     "- Arrays and Hashing.md",
     "- BFS.md",
-    "- Binary Search.md",
-    "- Binary Tree.md",
     "- Bit Manupilation.md",
     "- Counting.md",
-    "- DFS.md",
     "- Dynamic.md",
-    "- Easy Level.md",
-    "- Hard Level.md",
     "- Heaps.md",
     "- Linked List.md",
     "- Math.md",
     "- Matrix.md",
-    "- Medium Level.md",
-    "- Pointers.md",
-    "- Python.md",
-    "- Queue.md",
-    "README.md",
     "Pasted image 20240311113718.png",
     "README",
     "Untitled.base",
