@@ -1,5 +1,5 @@
 ```dataview
 TABLE
-FROM #easy 
+FROM #greedy  
 SORT file.name Asc
 ```
