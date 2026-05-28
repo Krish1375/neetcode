@@ -11,10 +11,14 @@
             "id": "25c23246fc94a98f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "746. Min Cost Climbing Stairs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "746. Min Cost Climbing Stairs"
             }
           }
         ]
@@ -181,6 +185,7 @@
   },
   "active": "25c23246fc94a98f",
   "lastOpenFiles": [
+    "746. Min Cost Climbing Stairs.md",
     "0198. House Robber.md",
     "0213. House Robber II.md",
     "299. Bulls and Cows.md",
@@ -206,7 +211,6 @@
     "- Recursion.md",
     "- Sorting.md",
     "- Stack.md",
-    "- Bucket Sort.md",
     "Pasted image 20240311113718.png",
     "README",
     "Untitled.base",
