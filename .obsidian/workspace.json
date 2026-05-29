@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0005. Longest Palindromic Substring.md",
+                "file": "0322. Coin Change.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0005. Longest Palindromic Substring"
+              "title": "0322. Coin Change"
             }
           }
         ],
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +215,8 @@
   },
   "active": "05f6bef4813145c6",
   "lastOpenFiles": [
-    "0647. Palindromic Substrings.md",
     "0005. Longest Palindromic Substring.md",
+    "0647. Palindromic Substrings.md",
     "0091. Decode Ways.md",
     "0746. Min Cost Climbing Stairs.md",
     "0299. Bulls and Cows.md",
