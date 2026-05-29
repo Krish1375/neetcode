@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0704. Binary Search.md",
+                "file": "0074. Search a 2D Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0704. Binary Search"
+              "title": "0074. Search a 2D Matrix"
             }
           }
         ],
@@ -228,6 +228,7 @@
   },
   "active": "8e1a81ae50f5c2e1",
   "lastOpenFiles": [
+    "0704. Binary Search.md",
     "0139. Word Break.md",
     "0152. Maximum Product Subarray.md",
     "0322. Coin Change.md",
@@ -253,7 +254,6 @@
     "- Hard Level.md",
     "- Binary Tree.md",
     "- Medium Level.md",
-    "0074. Search a 2D Matrix.md",
     "Pasted image 20240311113718.png",
     "README",
     "Untitled.base",
