@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0074. Search a 2D Matrix.md",
+                "file": "0875. Koko Eating Bananas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0074. Search a 2D Matrix"
+              "title": "0875. Koko Eating Bananas"
             }
           }
         ],
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,6 +229,7 @@
   },
   "active": "8e1a81ae50f5c2e1",
   "lastOpenFiles": [
+    "0074. Search a 2D Matrix.md",
     "0704. Binary Search.md",
     "0139. Word Break.md",
     "0152. Maximum Product Subarray.md",
@@ -253,7 +255,6 @@
     "- Queue.md",
     "- Hard Level.md",
     "- Binary Tree.md",
-    "- Medium Level.md",
     "Pasted image 20240311113718.png",
     "README",
     "Untitled.base",
