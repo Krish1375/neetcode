@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0002. Add Two Numbers.md",
+                "file": "0153. Find Minimum in Rotated Sorted Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0002. Add Two Numbers"
+              "title": "0153. Find Minimum in Rotated Sorted Arrays"
             }
           }
         ],
@@ -224,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,8 +243,8 @@
   },
   "active": "340ba65cd444eddd",
   "lastOpenFiles": [
-    "0875. Koko Eating Bananas.md",
     "0002. Add Two Numbers.md",
+    "0875. Koko Eating Bananas.md",
     "0074. Search a 2D Matrix.md",
     "0704. Binary Search.md",
     "0139. Word Break.md",
