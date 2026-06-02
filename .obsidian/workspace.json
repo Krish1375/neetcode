@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5086555480957
+    "width": 345.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "8de023a279abcc0d",
@@ -179,14 +180,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae2977dbd171dd3f",
+  "active": "cff6c85a247b849d",
   "lastOpenFiles": [
+    "0039. Combination Sum.md",
+    "- Back Tracking.md",
+    "0102. Binary Tree Level Order Traversal.md",
+    "], [1], [2], [], [], [.md",
     "0120. Triangle.md",
     "0232. Implement Queue using Stacks.md",
     "0048. Rotate Image.md",
     "Untitled.base",
     "0078. Subsets.md",
-    "], [1], [2], [], [], [.md",
     "0746. Min Cost Climbing Stairs.md",
     "0091. Decode Ways.md",
     "0322. Coin Change.md",
@@ -205,9 +209,6 @@
     "0198. House Robber.md",
     "0213. House Robber II.md",
     "- Two Pointers.md",
-    "- Hash Table.md",
-    "0334. Increasing Triplet Subsequence.md",
-    "1143. Longest Common Subsequence.md",
     "Pasted image 20240311113718.png",
     "README",
     "Untitled 1.base",
