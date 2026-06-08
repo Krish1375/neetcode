@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2574. Left and Right Sum Differences.md",
+                "file": "0659. Encode and Decode Strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2574. Left and Right Sum Differences"
+              "title": "0659. Encode and Decode Strings"
             }
           }
         ],
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +197,7 @@
   },
   "active": "27d8055bf231ba9f",
   "lastOpenFiles": [
+    "0347. Top K Frequent Elements.md",
     "2574. Left and Right Sum Differences.md",
     "0039. Combination Sum.md",
     "- Back Tracking.md",
@@ -222,7 +224,6 @@
     "0647. Palindromic Substrings.md",
     "0299. Bulls and Cows.md",
     "0198. House Robber.md",
-    "0213. House Robber II.md",
     "Pasted image 20240311113718.png",
     "README",
     "Untitled 1.base",
