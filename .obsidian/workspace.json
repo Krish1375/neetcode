@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0167. Two Sum II - Input Array Is Sorted.md",
+                "file": "0155. Min Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0167. Two Sum II - Input Array Is Sorted"
+              "title": "0155. Min Stack"
             }
           }
         ],
@@ -197,6 +197,7 @@
   },
   "active": "27d8055bf231ba9f",
   "lastOpenFiles": [
+    "0167. Two Sum II - Input Array Is Sorted.md",
     "0659. Encode and Decode Strings.md",
     "0347. Top K Frequent Elements.md",
     "2574. Left and Right Sum Differences.md",
@@ -223,7 +224,6 @@
     "0152. Maximum Product Subarray.md",
     "0005. Longest Palindromic Substring.md",
     "0647. Palindromic Substrings.md",
-    "0299. Bulls and Cows.md",
     "Pasted image 20240311113718.png",
     "README",
     "Untitled 1.base",
