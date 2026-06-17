@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "first",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27d8055bf231ba9f",
+  "active": "5949aff894d83638",
   "lastOpenFiles": [
     "0739. Daily Temperatures.md",
     "0150. Evaluate Reverse Polish Notation.md",
